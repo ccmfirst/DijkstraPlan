@@ -1,0 +1,13 @@
+/home/cmcai/tmp/DijkstraPlan/obj/Debug/netcoreapp3.1/DijkstraPlan.csprojAssemblyReference.cache
+/home/cmcai/tmp/DijkstraPlan/obj/Debug/netcoreapp3.1/DijkstraPlan.AssemblyInfoInputs.cache
+/home/cmcai/tmp/DijkstraPlan/obj/Debug/netcoreapp3.1/DijkstraPlan.AssemblyInfo.cs
+/home/cmcai/tmp/DijkstraPlan/obj/Debug/netcoreapp3.1/DijkstraPlan.csproj.CoreCompileInputs.cache
+/home/cmcai/tmp/DijkstraPlan/bin/Debug/netcoreapp3.1/DijkstraPlan
+/home/cmcai/tmp/DijkstraPlan/bin/Debug/netcoreapp3.1/DijkstraPlan.deps.json
+/home/cmcai/tmp/DijkstraPlan/bin/Debug/netcoreapp3.1/DijkstraPlan.runtimeconfig.json
+/home/cmcai/tmp/DijkstraPlan/bin/Debug/netcoreapp3.1/DijkstraPlan.runtimeconfig.dev.json
+/home/cmcai/tmp/DijkstraPlan/bin/Debug/netcoreapp3.1/DijkstraPlan.dll
+/home/cmcai/tmp/DijkstraPlan/bin/Debug/netcoreapp3.1/DijkstraPlan.pdb
+/home/cmcai/tmp/DijkstraPlan/obj/Debug/netcoreapp3.1/DijkstraPlan.dll
+/home/cmcai/tmp/DijkstraPlan/obj/Debug/netcoreapp3.1/DijkstraPlan.pdb
+/home/cmcai/tmp/DijkstraPlan/obj/Debug/netcoreapp3.1/DijkstraPlan.genruntimeconfig.cache

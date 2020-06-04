@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cmcai/.dotnet/store/|arch|/|tfm|",
+      "/home/cmcai/.nuget/packages"
+    ]
+  }
+}

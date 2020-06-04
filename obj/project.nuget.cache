@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gXxMDzaj5/IQb9Ax8YFyxlB3PSE8WECePtTjyXDSCrU07WrVFjP03RLKpoBLopAvk/C4adX+W16wij4ViSxpA==",
+  "success": true,
+  "projectFilePath": "/home/cmcai/tmp/DijkstraPlan/DijkstraPlan.csproj",
+  "expectedPackageFiles": [
+    "/home/cmcai/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
