@@ -76,7 +76,7 @@ namespace DijkstraPlan
                 s[u] = 1;
                 for (int k = 0; k < dist.Length; k++)
                 {
-                    if (s[i] == 0)
+                    if (s[k] == 0)
                     {
                         if (dist[u] + data.Cost[u][k] < dist[k])
                         {
